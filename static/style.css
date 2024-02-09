@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'NanumSquareAcB';
+    src: url('../fonts/NanumSquareAcB.woff') format('woff');  /* 폰트 파일 경로를 정확하게 지정 */
+    /* 다른 포맷도 필요에 따라 추가 가능 */
+
+body {
+
+}
